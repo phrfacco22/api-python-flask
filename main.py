@@ -19,7 +19,6 @@ employees = [
     ]
 
 nextEmployeeId = 4
-3
 
 
 @app.route('/employees', methods=['GET'])
